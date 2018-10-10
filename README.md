@@ -8,8 +8,9 @@ I created this Java Applet using JGrasp.
 
 To run the program:
 
-In the terminal:
-Type the command: javac SpaceShip.java
+Clone or download this repo
+
+In the terminal type the command: javac SpaceShip.java
 
 HIT ENTER
 
